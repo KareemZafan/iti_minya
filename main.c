@@ -6,7 +6,4 @@
    printf("Hello Together") ; 
  return 0; 
  }
- 
- 
- 
- /* This is comment */
+
